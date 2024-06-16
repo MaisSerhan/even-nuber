@@ -1,6 +1,7 @@
 ### Heading level 1
-this level is simple but it take time I used the mod in c++
+this level is simple but it take time I used the mod in c++. 
+in time = **9770 microsec**
 
 ### Heading level 2
-this level is more fast time I used the & in c++ 
+this level is more fast time I used the & in c++. 
 in time = **7177 microsec**
